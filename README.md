@@ -1,16 +1,11 @@
-# chatbot
+# Chatbot-for-Biginners
 
-A new Flutter application.
+### To run this code
+#### Pip install -r requirements.txt
+#### python ChatBot.py
 
-## Getting Started
+Terminal based Chatbot :
+![Image of output](https://github.com/datamagic2020/Chatbot-for-Biginners/blob/main/chatbot.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+UI Based Chatbot :
+![Image of output](https://github.com/datamagic2020/Chatbot-for-Biginners/blob/main/ui%20chatbot%20thumb.png)
